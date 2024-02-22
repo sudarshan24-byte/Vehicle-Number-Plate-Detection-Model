@@ -1,0 +1,7 @@
+.idea
+venv
+dataset
+runs
+ultralytics
+.gitattributes
+yolov8n.pt
